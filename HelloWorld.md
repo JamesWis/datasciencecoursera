@@ -1,4 +1,4 @@
-Hellow World
+Hello World
 ===================
 
 ##This is a Markdown file
